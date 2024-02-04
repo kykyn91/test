@@ -2,4 +2,8 @@ training session 1 & 2
 
 this is training
 
+<<<<<<< HEAD
 trying
+=======
+testing again
+>>>>>>> fe45880aa0956b304cfb7eff4907a431c16882bb
