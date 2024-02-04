@@ -5,6 +5,7 @@ this is training
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 trying
 =======
 testing again
@@ -21,3 +22,9 @@ testing again
 
 testing again and again
 >>>>>>> refs/remotes/origin/main
+=======
+testing again
+
+
+testing again and again
+>>>>>>> e8d5e4edae1b92e0cf36b3785b32696e8df60127
