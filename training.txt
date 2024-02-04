@@ -3,7 +3,14 @@ training session 1 & 2
 this is training
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 trying
 =======
 testing again
 >>>>>>> fe45880aa0956b304cfb7eff4907a431c16882bb
+=======
+testing again
+
+
+testing again and again
+>>>>>>> e8d5e4edae1b92e0cf36b3785b32696e8df60127
